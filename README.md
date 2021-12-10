@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Fredric Lesomar🤔
 
-<img src="https://avatars.githubusercontent.com/u/16724238?v=4" alt="banner that says Fredric Lesomar - I am an ameteur programer and cybersecurity enthusiast">
+<img src="https://raw.githubusercontent.com/fredriclesomar/fredriclesomar/master/Screenshot_7.png" alt="banner that says Fredric Lesomar - I am an ameteur programer and cybersecurity enthusiast">
 I'm a security engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Yara and more. In 2020, My Github Repo was selected to be an <a href="https://archiveprogram.github.com/">GitHub Achievements</a> Preserving open source software for future generations. 
 
 
