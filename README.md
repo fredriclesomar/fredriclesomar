@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a security engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Yara and more. In 2020, My Github Repo was selected to be an <a href="https://archiveprogram.github.com/">GitHub Achievements</a> Preserving open source software for future generations. 
 
 
-## Find me around the web 🌎: <a href="https://github.com/fredriclesomar"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/fredriclesomar/fredriclesomar1-/main/hello-hi.gif?token=AD7TCDV4735372WDHMVCPMTBWYZ34"></a>
+## Find me around the web 🌎: <a href="https://github.com/fredriclesomar"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/fredriclesomar/fredriclesomar/master/hello-hi.gif"></a>
 - Personal site on <a href="https://fredriclesomar.my.id/">Fredric Lesomar</a>
 - Profesional site on: <a href="https://www.linkedin.com/in/fredricls/">Linkedin</a>
 - Social Media: <a href="https://www.instagram.com/fredriclesomar">Instagram</a>
